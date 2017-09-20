@@ -1,2 +1,5 @@
-{abcdefg wag asdf a }{abcdefg wag asdf a }
+<<<<<<< HEAD
 {abcdefg wag asdf a }
+=======
+{“name”:”zhang”,”years old”:13}
+>>>>>>> master
